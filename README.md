@@ -9,7 +9,7 @@ The final map visualisation reflects the magnitude of the earthquakes (by makrke
 
 ## Raw Data
 Sourced from [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-Specific 30 day data pulled as of Wed 6th Sept is located at this [LINK](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson)
+Specific 7 day data pulled as of Wed 6th Sept is located at this [LINK](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
 ## References:
 Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
