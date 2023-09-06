@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this challenge I used GeoJSON earthquake data from the United States Geological Survey (USGS) to map and visualise earthquake data from the last 30 days.
+In this challenge I used GeoJSON earthquake data from the United States Geological Survey (USGS) to map and visualise earthquake data from the last 7 days.
 The data was sourced on Wednesday 6th September 2023.
 
 The final map visualisation reflects the magnitude of the earthquakes (by makrker size), as well as the depth of the earthquake (represented by a darker marker colour). 
