@@ -8,3 +8,45 @@ body,
 html {
   height: 100%;
 }
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+.legend-title {
+  font-size: 10px;
+}
+
+.legend {
+  color: #555;
+  padding: 10px 10px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+.legend ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.legend li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  height: 20px;
+}
+.legend .min {
+  float: left;
+  padding-bottom: 5px;
+}
+.legend .max {
+  float: right;
+}
+
+h1 {
+  text-align: center;
+}
