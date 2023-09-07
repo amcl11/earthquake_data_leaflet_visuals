@@ -96,7 +96,7 @@ d3.json(url).then(function (data) {
       color: "white",
       fillColor: color,
       radius: (magnitude + 1) * 50000 // use +1 to remove negative magnitude values 
-    }).bindPopup(`<h1>${place}</h1> <hr> <h2>Magnitude: ${magnitude}</h2> <hr> <h3>Depth ${depth}</h3>`).addTo(myMap);
+    }).bindPopup(`<h1>${place}</h1> <hr> <h2>Magnitude: ${magnitude}</h2> <hr> <h3>Depth: ${depth}</h3>`).addTo(myMap);
 }
 //checking to see the min and max depth across all earthquake data 
 console.log("maxDepth:", maxDepth);
