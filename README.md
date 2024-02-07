@@ -1,4 +1,4 @@
-# Module 15: Mapping / Data Visualisation 
+# Module 15: Leaflet Mapping / Earthquake Data Visualisation
 
 ## Project Overview
 
