@@ -1,6 +1,6 @@
-# Module 15: Leaflet Mapping / Earthquake Data Visualisation
+# Leaflet Mapping / Earthquake Data Visualisation
 
-## Project Overview
+## Overview
 
 Using GeoJSON earthquake data from the United States Geological Survey (USGS) to map and visualise earthquake data from the last 7 days.
 The data was sourced on Wednesday 6th September 2023.
